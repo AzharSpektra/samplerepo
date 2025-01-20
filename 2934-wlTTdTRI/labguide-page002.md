@@ -10,6 +10,4 @@ user password
 ```
 user password will be shown here
 ```
-```
-Sub-123456
-```
+<inject key="subscriptionid"/>
