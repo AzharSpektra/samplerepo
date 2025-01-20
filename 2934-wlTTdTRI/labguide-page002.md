@@ -1,13 +1,4 @@
-pwe2
-aa
-
-user emial
 ```
-user email will be shown here
+Sub-123456
 ```
-
-user password
-```
-user password will be shown here
-```
-<inject key="subscriptionid"/>
+<validation step="6f6cb300-e202-4070-8ce1-7c0e2d526fb3" /><validation step="6f6cb300-e202-4070-8ce1-7c0e2d526fb3" />
