@@ -1,6 +1,3 @@
 ```
-user email will be shown here
-```
-```
-user email will be shown here
+user subscription id will be shown here
 ```
