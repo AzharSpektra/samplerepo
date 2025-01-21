@@ -1,1 +1,1 @@
-<inject key="subscriptionid"/><!-- Inject keys: subscriptionid -->
+<inject key="subscriptionid"/>
