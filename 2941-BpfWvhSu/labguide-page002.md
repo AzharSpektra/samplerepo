@@ -1,2 +1,5 @@
 pg2
-<inject key="subscriptionid"/>
+
+```
+user subscription id will be shown here
+```
