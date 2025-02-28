@@ -3,4 +3,3 @@ youtube video:
 
 vimeo video:
 <inline-video source="https://player.vimeo.com/video/225534519" width="auto" height="auto" />
-
