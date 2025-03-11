@@ -1,8 +1,8 @@
 ## Metadata
-Question Type: SingleChoice
+Question Type: MultipleChoice
 
 ## Question
-q1test
+q1test23
 
 ## Options
 Option 1: a
@@ -11,7 +11,7 @@ Option 3: c
 Option 4: d
 
 ## Answers
-1 : 0
+1 : 10
 
 ## Correct Answer Feedback
 correct answer
