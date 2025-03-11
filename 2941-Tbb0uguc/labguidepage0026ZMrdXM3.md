@@ -1,5 +1,5 @@
 ## Metadata
-Question Type: SingleChoice
+Question Type: Single Choice
 
 ## Question
 q1test23
