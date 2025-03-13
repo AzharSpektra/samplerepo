@@ -11,6 +11,12 @@ Option 2: er
 ## Answers
 Option 1 : 0
 
+## Correct Answer Feedback
+cr
+
+## Incorrect Answer Feedback
+incr
+
 ## Number of Retries
-1
+3
 
