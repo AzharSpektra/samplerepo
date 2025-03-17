@@ -12,5 +12,5 @@ Option 2: bba
 Option 1 : 1
 
 ## Number of Retries
-2
+1
 
