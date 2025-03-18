@@ -10,6 +10,10 @@
       {
         "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/AzharSpektra/samplerepo/main//labguide-page002.md",
         "Order": 2
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/AzharSpektra/samplerepo/main//labguide-page003.md",
+        "Order": 3
       }
     ]
   }
