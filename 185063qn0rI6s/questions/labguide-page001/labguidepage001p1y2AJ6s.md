@@ -1,15 +1,17 @@
 ## Metadata
-Question Type : Single Choice
+Question Type : Text Input
 
 ## Question
 quetion1 for testing
 
-## Options
-Option 1: aab
-Option 2: bba
-
 ## Answers
-Option 1 : 1
+^[a-zA-Z0-9 .]+$ : 10
+
+## Correct Answer Feedback
+cr
+
+## Incorrect Answer Feedback
+incr
 
 ## Number of Retries
 1
