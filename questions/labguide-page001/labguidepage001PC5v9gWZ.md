@@ -14,5 +14,5 @@ cr
 incr
 
 ## Number of Retries
-3
+2
 
