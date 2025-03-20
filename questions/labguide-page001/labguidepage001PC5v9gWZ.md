@@ -10,9 +10,6 @@ axax : 1
 ## Correct Answer Feedback
 cr
 
-## Incorrect Answer Feedback
-incr
-
 ## Number of Retries
 2
 
