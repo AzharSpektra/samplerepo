@@ -15,11 +15,11 @@ Option 1 : 10
 Option 4 : 10
 
 ## Correct Answer Feedback
-selected options are correct
+selected options are correct.
 
 ## Incorrect Answer Feedback
-selected options are incorrect
+selected options are incorrect.
 
 ## Number of Retries
-0
+2
 
