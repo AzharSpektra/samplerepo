@@ -10,7 +10,7 @@ Option 2: b
 Option 3: c
 
 ## Answers
-Option 1 : 1
+Option 1 : 10
 
 ## Correct Answer Feedback
 cr
